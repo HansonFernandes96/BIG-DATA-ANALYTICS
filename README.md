@@ -12,9 +12,5 @@ This project performs sentiment analysis on the Amazon Customer Reviews dataset 
 - **dataset/**: Contains the Amazon Customer Reviews dataset or a link to it.
 - **requirements.txt**: Python dependencies for the project.
 
-## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Big-Data-Amazon-Reviews
    ```
